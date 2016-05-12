@@ -3,9 +3,25 @@
 header .bg-green {
 	background-color: #009688;
 	height: 180px;
-	max-height: 180%;
+	max-height: 100%;
+	max-width: 100%;
 }
 
-section {
+section .bg-grey {
+	background-color: #DFDFDF;
+	height: 700px;
+	max-height: 100%;
+	max-width: 100%;
+}
 
+.cuerpo {
+	background-color: #DFDFDF;
+	height: 70px;
+	margin-top: -400px;
+}
+.cuerpo img {
+	height:50px;
+	width: 50px;
+	border-radius: 50%;
+	position: absolute;
 }
